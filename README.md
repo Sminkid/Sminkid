@@ -3,8 +3,11 @@
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 ### `LIVE STATS`
-
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sminkid&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2ea043&icon_color=2ea043&text_color=cdeccd" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sminkid&theme=github-dark-blue&hide_border=true&background=0d1117&ring=2ea043&fire=2ea043&currStreakLabel=2ea043" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sminkid&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2ea043&text_color=cdeccd" height="200"/>
 
 </div>
 
