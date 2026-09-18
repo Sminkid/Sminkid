@@ -6,11 +6,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sminkid&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2ea043&icon_color=2ea043&text_color=cdeccd" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sminkid&theme=github-dark-blue&hide_border=true&background=0d1117&ring=2ea043&fire=2ea043&currStreakLabel=2ea043" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sminkid&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2ea043&text_color=cdeccd" height="200"/>
-
 </div>
 
 ### `CONTRIBUTION GRID`
@@ -21,11 +16,8 @@
 <img src="profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D contribution graph" />
 <!--END_3D_CONTRIB-->
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sminkid&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" width="100%"/>
-
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=pixels&height=3&color=0:2ea043,100:0d1b0d" width="100%"/>
 
 ### `SKILL SET`
 
@@ -34,8 +26,6 @@
 <img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,electron,py,java,c,cpp,mysql,postgres,html,css,git,github,figma,aws,docker,vscode&theme=dark" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=pixels&height=3&color=0:0d1b0d,100:2ea043" width="100%"/>
 
 ### `FEATURED BUILDS`
 
@@ -90,8 +80,6 @@ Voice-enabled study assistant for engineering learners — Gemini for conversati
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=pixels&height=3&color=0:2ea043,100:0d1b0d" width="100%"/>
-
 <div align="center">
 
 **contribution snake** 🐍
@@ -101,5 +89,3 @@ Voice-enabled study assistant for engineering learners — Gemini for conversati
 <!--END_SNAKE-->
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=pixels&color=0:2ea043,100:0d1b0d&height=100&section=footer" width="100%"/>
