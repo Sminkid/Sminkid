@@ -18,7 +18,7 @@
 <div align="center">
 
 <!--START_3D_CONTRIB-->
-<img src="profile-3d-contrib/profile-gitblock.svg" width="100%" alt="3D contribution graph" />
+<img src="profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D contribution graph" />
 <!--END_3D_CONTRIB-->
 
 <img src="https://github-profile-trophy.vercel.app/?username=Sminkid&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" width="100%"/>
